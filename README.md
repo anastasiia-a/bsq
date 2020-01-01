@@ -4,7 +4,7 @@
 ◦ Цель этого проекта - найти самую большую площадь на карте, избегая препятствий.
 Карта генерируется с помощью кода на perl и записывается в файл, который потом передается в качестве 
 аргумента для этой программы.
-![](https://github.com/Anastasiya1405/BSQ/raw/master/2.png) <br>
+![](https://github.com/anastasiia-a/BSQ/raw/master/2.png) <br>
 ◦ Первая строка карты содержит информацию о том, как читать карту: <br>
 1) Количество линий на карте; <br>
 2) символ «пустоты»; <br>
@@ -30,17 +30,17 @@
 <h2>Тестирование программы: </h2> <br>
 <h3> №1(в качестве аргумента передана одна валидная карта) </h3>
 
-![](https://github.com/Anastasiya1405/BSQ/raw/master/1.png) 
+![](https://github.com/anastasiia-a/BSQ/raw/master/1.png) 
 <br> <br>
 <h3> №2(в качестве аргумента передано несколько валидных карт) </h3>
 
-![](https://github.com/Anastasiya1405/BSQ/raw/master/3.png) 
+![](https://github.com/anastasiia-a/BSQ/raw/master/3.png) 
 <br> 
-![](https://github.com/Anastasiya1405/BSQ/raw/master/4.png) 
+![](https://github.com/anastasiia-a/BSQ/raw/master/4.png) 
 <br> <br>
 <h3> №3(в качестве аргумента передана одна невалидная карта(количество строк меньше заявленных 9)) </h3>
 
-![](https://github.com/Anastasiya1405/BSQ/raw/master/5.png)
+![](https://github.com/anastasiia-a/BSQ/raw/master/5.png)
  <br> <br>
 
 
